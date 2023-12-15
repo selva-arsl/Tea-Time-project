@@ -266,7 +266,7 @@ nav input:checked~.link{
 
 .card-container{
    
-    background-color:rgb(241,248,243);
+    background:linear-gradient(45deg,#C3E2C2,#607274);
     display:grid;
     grid-template-columns:repeat(3,minmax(250px,1fr));
     justify-content: center;
