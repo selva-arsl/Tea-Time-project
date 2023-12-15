@@ -96,6 +96,7 @@ nav input:checked~.link{
     nav .link{
         display:none;
         position:absolute;
+        z-index:999;
         width:100%;
         color:white;
         background-color:whitesmoke;
