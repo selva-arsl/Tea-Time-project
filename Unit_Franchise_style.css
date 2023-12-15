@@ -407,7 +407,7 @@ nav input:checked~.link{
 @media only screen and (min-width:320px) and (max-width:800px){
     .fast-brand{
     
-        background-image: url("./bg-log.jpg");
+        background-image: url("./image/bg-log.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         display:grid;
@@ -423,7 +423,7 @@ nav input:checked~.link{
 @media only screen and (min-width:800px) and (max-width:1000px){
     .fast-brand{
     
-        background-image: url("./bg-log.jpg");
+        background-image: url("./image/bg-log.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         display:grid;
