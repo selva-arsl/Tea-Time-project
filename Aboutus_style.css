@@ -52,6 +52,7 @@ nav .link a{
     font-family:cursive;
     font-weight:bold;
     position: relative;
+    z-index: 9999;
 }
 
 nav .link a:hover{
