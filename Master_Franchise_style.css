@@ -363,7 +363,7 @@ ul li{
 
 .Rg-container{
    
-    background-image: url("./bg-log.jpg");
+    background-image: url("./image/bg-log.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display:grid;
